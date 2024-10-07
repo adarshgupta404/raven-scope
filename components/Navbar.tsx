@@ -92,7 +92,7 @@ export default function Navbar() {
           isVisible
             ? "top-0 bg-clip-padding bg-white/70 backdrop-filter backdrop-blur-sm bg-opacity-10   shadow-md"
             : "-top-16 bg-clip-padding bg-white/70 backdrop-filter backdrop-blur-sm bg-opacity-10 "
-        } ${hasScrolled ? "animate-slideDown" : ""}`}
+        } ${hasScrolled ? "animate-slideDown top-0" : ""}`}
       >
         <div className="flex justify-between items-center mx-auto max-w-screen-xl w-full">
           <Link href="#" className="flex items-center gap-2" prefetch={false}>
