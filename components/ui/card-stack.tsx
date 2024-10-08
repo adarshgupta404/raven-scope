@@ -34,7 +34,7 @@ export const CardStack = ({
         newArray.unshift(newArray.pop()!); // move the last element to the front
         return newArray;
       });
-    }, 1000);
+    }, 2000);
   };
 
   return (

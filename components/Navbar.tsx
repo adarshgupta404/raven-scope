@@ -52,7 +52,7 @@ export default function Navbar() {
   return (
     <>
       {/* Banner Section */}
-      <div className="w-full bg-primary dark:bg-primary text-primary-foreground dark:text-primary-foreground py-2">
+      {/* <div className="w-full bg-primary dark:bg-primary text-primary-foreground dark:text-primary-foreground py-2">
         <div className="flex justify-between items-center mx-auto max-w-screen-xl px-4">
           <div className="flex items-center gap-4">
             <div className="flex items-center gap-2">
@@ -84,7 +84,7 @@ export default function Navbar() {
           <Clock className="h-4 w-4" />
           <span>Mon - Fri: 9:00 AM - 6:00 PM</span>
         </div>
-      </div>
+      </div> */}
 
       {/* Navbar Section */}
       <div

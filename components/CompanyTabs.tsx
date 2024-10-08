@@ -22,9 +22,9 @@ export function TabsDemo() {
       <TabsContent value="mission">
         <Card>
           <CardContent className="space-y-2 pt-4">
-            At Raven Scope Investigations, our mission is straightforward: to deliver
-            the utmost expertise and service to insurers, policyholders, and
-            third-party administrators in the realm of insurance claim
+            At Raven Scope Investigations, our mission is straightforward: to
+            deliver the utmost expertise and service to insurers, policyholders,
+            and third-party administrators in the realm of insurance claim
             investigation and verification.
             <br />
             <br />
@@ -41,12 +41,14 @@ export function TabsDemo() {
             dedicated team of experts who are passionate about their work. Our
             team is made up of highly skilled professionals with extensive
             knowledge of the insurance industry, all committed to achieving
-            outstanding results.
+            outstanding results. We pride ourselves on having a large team that
+            is well-equipped to handle various challenges efficiently.
             <br />
             <br />
-            We take pride in our team's ability to engage with clients in a
-            professional manner, ensuring a seamless experience throughout the
-            process.
+            Our professionals excel at engaging with clients in a professional
+            manner, ensuring a seamless experience throughout the process.
+            Additionally, we have established contacts in hospitals, enabling us
+            to obtain vital information swiftly and effectively.
           </CardContent>
         </Card>
       </TabsContent>
@@ -55,9 +57,8 @@ export function TabsDemo() {
           <CardContent className="space-y-2 pt-4">
             <div className="">
               <p className="mb-6">
-                At Raven Scope Investigations, our values are
-                fundamental to our operations and influence every decision we
-                make:
+                At Raven Scope Investigations, our values are fundamental to our
+                operations and influence every decision we make:
               </p>
 
               <ul className="list-disc list-inside space-y-1">

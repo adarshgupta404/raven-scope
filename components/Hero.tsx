@@ -3,7 +3,7 @@ import { CardStackComponent } from "./HeroCard";
 const Hero = () => {
   return (
     <section>
-      <div className="bg-black min-h-svh flex justify-center md:min-h-[calc(100dvh-84px)] mx-auto text-white md:py-20">
+      <div className="bg-black min-h-svh flex justify-center md:min-h-[calc(100dvh-64px)] mx-auto text-white md:py-20">
         <div className="container overflow-hidden mx-auto flex flex-col md:flex-row max-w-screen-xl items-center">
           <div className="flex flex-col md:w-1/2 justify-center items-start p-8">
             <h1 className="text-3xl animate__animated animate__slideInUp animate__faster md:text-5xl font-semibold text-yellow-300 tracking-loose">
