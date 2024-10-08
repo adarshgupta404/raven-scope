@@ -32,40 +32,32 @@ export const Highlight = ({
 const CARDS = [
   {
     id: 0,
-    name: "Manu Arora",
-    designation: "Senior Software Engineer",
     content: (
-      <p>
-        These cards are amazing, <Highlight>I want to use them</Highlight> in my
-        project. Framer motion is a godsend ngl tbh fam 🙏
-      </p>
+      <img
+        className="w-full h-full object-cover"
+        src="https://t3.ftcdn.net/jpg/01/02/91/72/360_F_102917275_EwxqjeGA7qgl5Tmp9sI92iwhFZ623fM8.jpg"
+        alt="1"
+      />
     ),
   },
   {
     id: 1,
-    name: "Elon Musk",
-    designation: "Senior Shitposter",
     content: (
-      <p>
-        I dont like this Twitter thing,{" "}
-        <Highlight>deleting it right away</Highlight> because yolo. Instead, I
-        would like to call it <Highlight>X.com</Highlight> so that it can easily
-        be confused with adult sites.
-      </p>
+      <img
+        className="w-full h-full object-cover"
+        src="https://thumbs.dreamstime.com/b/investigate-basic-facts-questions-check-list-investigation-word-checklist-asking-who-what-where-why-how-as-43806704.jpg"
+        alt="1"
+      />
     ),
   },
   {
     id: 2,
-    name: "Tyler Durden",
-    designation: "Manager Project Mayhem",
     content: (
-      <p>
-        The first rule of
-        <Highlight>Fight Club</Highlight> is that you do not talk about fight
-        club. The second rule of
-        <Highlight>Fight club</Highlight> is that you DO NOT TALK about fight
-        club.
-      </p>
+      <img
+        className="w-full h-full object-cover"
+        src="https://media.istockphoto.com/id/1363488987/photo/detective-board-with-fingerprints-photos-map-and-clues-connected-by-red-string-on-white-brick.jpg?s=612x612&w=0&k=20&c=tM-x3PB-_hP7kVY5CBf3uPt2doTDrgkut-euQx_IjIk="
+        alt="1"
+      />
     ),
   },
 ];
