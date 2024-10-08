@@ -16,7 +16,7 @@ const Footer = () => {
                 Raven Scope Investigations
               </span>
             </a>
-            <div className="max-w-screen-md">
+            <div className="max-w-screen-md mt-2">
               Insurance fraud and the growing demand for private investigation
               services are pressing concerns in today’s intricate environment.
               These challenges have significant impacts, influencing not only

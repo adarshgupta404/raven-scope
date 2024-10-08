@@ -1,3 +1,5 @@
+import Choose from "@/components/Choose";
+import Company from "@/components/Company";
 import Features from "@/components/Features";
 import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
@@ -21,6 +23,8 @@ export default function Home() {
         Get in touch for seamless communication and collaboration & To Know More
       </div>
       <Features />
+      <Choose />
+      <Company />
       <Location />
       <Footer />
     </main>
