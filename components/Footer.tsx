@@ -23,42 +23,20 @@ const Footer = () => {
               individuals but also businesses and insurance providers.
             </div>
           </div>
-          <div className="grid grid-cols-2 gap-8 sm:gap-6">
-            <div>
-              <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">
-                Follow us
-              </h2>
-              <ul className="text-gray-500 dark:text-gray-400 font-medium">
-                <li className="mb-4">
-                  <a
-                    href="https://github.com/themesberg/flowbite"
-                    className="hover:underline "
-                  >
-                    Github
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://discord.gg/4eeurUVvTy"
-                    className="hover:underline"
-                  >
-                    Discord
-                  </a>
-                </li>
-              </ul>
-            </div>
+          <div className="grid grid-cols-1 gap-8 sm:gap-6">
+           
             <div>
               <h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">
                 Legal
               </h2>
               <ul className="text-gray-500 dark:text-gray-400 font-medium">
                 <li className="mb-4">
-                  <a href="#" className="hover:underline">
+                  <a href="/privacypolicy" className="hover:underline">
                     Privacy Policy
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:underline">
+                  <a href="/terms-and-conditions" className="hover:underline">
                     Terms &amp; Conditions
                   </a>
                 </li>
@@ -72,17 +50,13 @@ const Footer = () => {
             <div className="mb-4">
               <h3 className="font-semibold text-lg">Address:</h3>
               <p className="text-gray-700">
-                Registered Office: Good Morning Apartment, Nashkarhat, Kolkata,
-                WB 700039
-              </p>
-              <p className="text-gray-700">
-                Branch Office: DN 21 Salt Lake, Sector 5, Kolkata, WB 700091
+                Registered Office: Tara Kunj Complex, Ranchi, Jharkhand 834009
               </p>
             </div>
 
             <div className="mb-4">
               <h3 className="font-semibold text-lg">Hotline:</h3>
-              <p className="text-gray-700">Phone: +91 9241260553</p>
+              <p className="text-gray-700">Phone: +91 7366807043</p>
             </div>
 
             <div className="mb-4">
@@ -92,7 +66,7 @@ const Footer = () => {
 
             <div className="mb-4">
               <h3 className="font-semibold text-lg">Email:</h3>
-              <p className="text-gray-700">info@rawinvestigation.com</p>
+              <p className="text-gray-700">ravenscope2024@gmail.com</p>
             </div>
           </div>
         </div>
@@ -100,7 +74,7 @@ const Footer = () => {
         <div className="sm:flex sm:items-center sm:justify-between">
           <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
             © 2024{" "}
-            <a href="https://flowbite.com/" className="hover:underline">
+            <a href="/" className="hover:underline">
               Raven Scope Investigations™
             </a>
             . All Rights Reserved.

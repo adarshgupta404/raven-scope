@@ -22,7 +22,7 @@ export function TabsDemo() {
       <TabsContent value="mission">
         <Card>
           <CardContent className="space-y-2 pt-4">
-            At Reigel Assurance Wing, our mission is straightforward: to deliver
+            At Raven Scope Investigations, our mission is straightforward: to deliver
             the utmost expertise and service to insurers, policyholders, and
             third-party administrators in the realm of insurance claim
             investigation and verification.

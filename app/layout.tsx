@@ -1,7 +1,7 @@
-import { Be_Vietnam_Pro } from 'next/font/google';
-import type { Metadata } from "next";
-import "./globals.css";
 import 'animate.css';
+import type { Metadata } from "next";
+import { Be_Vietnam_Pro } from 'next/font/google';
+import "./globals.css";
 
 // Load the "Be Vietnam Pro" font
 const beVietnamPro = Be_Vietnam_Pro({
