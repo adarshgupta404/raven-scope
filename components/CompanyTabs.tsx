@@ -55,7 +55,7 @@ export function TabsDemo() {
           <CardContent className="space-y-2 pt-4">
             <div className="">
               <p className="mb-6">
-                At Reigel Assurance Investigation Pvt Ltd, our values are
+                At Raven Scope Investigations, our values are
                 fundamental to our operations and influence every decision we
                 make:
               </p>
